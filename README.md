@@ -1,4 +1,4 @@
-"Hey, I'm Anthony, a software enthusiast with a background in full-stack development. I'm all about crafting seamless Django APIs that team up perfectly with dynamic React frontends. When I'm not diving into the realm of code, you can find me in the thrilling world of League of Legends, catching some hoops or football action, or delving into the exciting world of the stock market.
+"Hey, I'm Anthony, a software enthusiast with a background in full-stack development. I'm all about crafting seamless Django APIs that team up perfectly with dynamic React frontends. When I'm not diving into the realm of code, you can find me in the on League of Legends, catching some hoops or football action, or delving into the exciting world of the stock market.
 
 Beyond tech, I'm always up for discussing the latest strategies and player stats! 🎮🏀⚽📈
 
