@@ -1,4 +1,6 @@
-"Hey I'm Anthony, a software developer with a knack for full-stack solutions. My forte lies in sculpting seamless Django APIs that sync perfectly with React frontends. When I'm not immersed in project building, you'll find me hanging out with my ace, my 3-year-old daughter, keyboard smasking in League of Legends or catching  basketball 🎮🏀, or keeping an eye on the stock market's latest trends ⚽📈.
+"Hey I'm Anthony, a software developer with a knack for full-stack solutions. With a robust foundation in both front-end and back-end technologies, I excel at crafting seamless Django APIs that perfectly synchronize with dynamic React frontends. 
+
+When I'm not immersed in project building, you'll find me hanging out with my ace, my 3-year-old daughter, smashign my keyboard playing League of Legends, catching a basketball game 🎮🏀, or keeping an eye on the stock market's ⚽📈.
 
 I'm all about collaboration and innovation, so let's join forces and bring some exciting projects to life! 🚀 Feel free to drop me a line at anarine83@gmail.com."
 
