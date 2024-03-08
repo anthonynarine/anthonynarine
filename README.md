@@ -1,4 +1,4 @@
-"Hey there! I'm Anthony, a software developer with a knack for full-stack solutions. My forte lies in sculpting seamless Django APIs that sync perfectly with vibrant React frontends. When I'm not immersed in project building, you'll find me hanging out with my greatest achievement, my 3-year-old daughter, diving into the thrilling worlds of League of Legends and basketball 🎮🏀, or keeping an eye on the stock market's latest trends ⚽📈.
+"Hey I'm Anthony, a software developer with a knack for full-stack solutions. My forte lies in sculpting seamless Django APIs that sync perfectly with React frontends. When I'm not immersed in project building, you'll find me hanging out with my ace, my 3-year-old daughter, keyboard smasking in League of Legends or catching  basketball 🎮🏀, or keeping an eye on the stock market's latest trends ⚽📈.
 
 I'm all about collaboration and innovation, so let's join forces and bring some exciting projects to life! 🚀 Feel free to drop me a line at anarine83@gmail.com."
 
@@ -7,6 +7,8 @@ I'm all about collaboration and innovation, so let's join forces and bring some 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-009688?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Context](https://img.shields.io/badge/React%20Context-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
