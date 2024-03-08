@@ -11,7 +11,6 @@ I'm all about collaboration and innovation, so let's join forces and bring some 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Context](https://img.shields.io/badge/React%20Context-61DAFB?style=flat-square&logo=react&logoColor=white)
-![React Leaflet](https://img.shields.io/badge/-React%20Leaflet-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
