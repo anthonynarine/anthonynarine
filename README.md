@@ -19,7 +19,8 @@ I'm all about collaboration and innovation, so let's join forces and bring some 
 
 ### Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-narine-9ab567245/)
+
 
 
 
