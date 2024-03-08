@@ -2,7 +2,7 @@
 
 Beyond tech, I'm always up for discussing the latest strategies and player stats! 🎮🏀⚽📈
 
-Let's team up and work on some projects together! 🚀 Feel free to reach out at anarine83@gmail.com or find me on LinkedIn at linkedin.com/in/anthony-narine-9ab567245  Can't wait to connect with you!"
+Let's team up and work on some projects together! 🚀 Feel free to reach out at anarine83@gmail.com 
 
 ### Technologies and Tools:
 
@@ -11,6 +11,7 @@ Let's team up and work on some projects together! 🚀 Feel free to reach out at
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-009688?style=flat-square&logo=django&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![React Context](https://img.shields.io/badge/React%20Context-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 
 
