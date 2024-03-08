@@ -9,7 +9,10 @@ Let's team up and work on some projects together! 🚀 Feel free to reach out at
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyNarine&show_icons=true)
+
+### Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsmith)
+
 
 
 <!---
