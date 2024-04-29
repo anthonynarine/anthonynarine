@@ -1,4 +1,4 @@
-"Hey I'm Anthony, a software developer with a knack for full-stack solutions. With a robust foundation in both front-end and back-end technologies, I excel at crafting seamless Django APIs that perfectly synchronize with dynamic React frontends. 
+Hi, I'm Anthony, specializing in full-stack development with a focus on React and Django. I enjoy building efficient and scalable solutions, particularly creating streamlined Django APIs that integrate smoothly with React-driven frontends. My approach combines a solid understanding of both back-end and front-end technologies to deliver cohesive applications.
 
 When I'm not immersed in project building, you'll find me hanging out with my ace, my 3-year-old daughter, smashign my keyboard playing League of Legends, catching a basketball game 🎮🏀, or keeping an eye on the stock market's ⚽📈.
 
