@@ -2,7 +2,7 @@ Hi, I'm Anthony, a full-stack development with a focus on React and Django. I en
 
 When I'm not immersed in project building, you'll find me hanging out with my ace, my 3-year-old daughter, smashign my keyboard playing League of Legends, catching a basketball game 🎮🏀, or keeping an eye on the stock market's ⚽📈.
 
-I'm all about collaboration and innovation, so let's join forces and bring some exciting projects to life! 🚀 Feel free to drop me a line at anarine83@gmail.com."
+I'm all about collaboration and innovation, so let's join forces and bring some exciting projects to life! 🚀 Feel free to drop me a line at anarine83@gmail.com.
 
 ### Technologies and Tools:
 
