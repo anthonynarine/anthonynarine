@@ -1,60 +1,95 @@
-## 👋 Hi, I'm Anthony Narine
+<h1 align="center">👋 Hi, I'm <span style="color:#61DAFB">Anthony Narine</span></h1>
+<h3 align="center">Full-Stack Developer | React • Django • FastAPI</h3>
 
-I'm a full-stack developer who enjoys turning complex ideas into clean, scalable applications.  
-Most of my work blends **React** on the front end with **Django** and **FastAPI** on the back end — crafting well-structured APIs, integrating real-time features, and building modular systems that are easy to maintain.
-
-I love designing architecture that feels *balanced* — from database schema to UI flow — and I’m always refining how data moves between layers.  
-Lately, I’ve been focused on microservice orchestration, containerization, and building internal tools that make development smoother for everyone.
-
-When I’m not building or debugging, you’ll usually find me hanging with my ace — my 3-year-old daughter 💕 — smashing my keyboard in **League of Legends**, catching a basketball game 🏀, or watching the stock market like it’s the playoffs 📈⚡.
-
-I’m always open to learning, collaborating, and exploring new ideas — if you’re building something exciting, let’s connect and make it happen. 🚀  
-📬 **Email:** [anarine83@gmail.com](mailto:anarine83@gmail.com)
+<p align="center">
+  <i>“Code is a craft — and I’m still sharpening the tools.”</i>
+</p>
 
 ---
 
-### 🧰 Technologies & Tools
+### 🧠 About Me
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Context](https://img.shields.io/badge/React%20Context-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I'm a full-stack developer who enjoys turning complex ideas into clean, scalable applications.  
+I specialize in building **React** front-ends connected to **Django** or **FastAPI** back-ends — designing APIs that feel effortless to integrate and fun to maintain.  
 
-**Databases & Caching**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+I love creating architecture that flows — from database schema to UI — and I’m fascinated by how small design decisions impact performance, clarity, and developer experience.  
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+When I’m not coding, you’ll usually find me:  
+👧 hanging with my ace (my 3-year-old daughter)  
+🎮 smashing keys in **League of Legends**  
+🏀 watching a basketball game  
+📈 keeping an eye on the stock market  
+
+I’m always open to learning, collaborating, and exploring new ideas.  
+If you’re building something ambitious, let’s connect and make it happen. 🚀  
+📬 **anarine83@gmail.com**
+
+---
+
+### ⚙️ Tech Stack
+
+#### 💻 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+#### 🗄 Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+#### 🛠 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+#### 🎨 Front-End Tools
+<p>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
 ### 🌱 Currently Exploring
-- Distributed logging and observability (ELK / Loki / OpenTelemetry)  
-- Building scalable **FastAPI microservices** for AI-driven workflows  
-- Advanced React state management with Context + Reducers  
-- TypeScript-driven front-end architecture for large apps  
+- 🧩 **Microservice design** using Django + FastAPI  
+- ⚙️ **Distributed logging and observability** (ELK, Loki, OpenTelemetry)  
+- 🧠 **AI + LLM integration** with LangChain and FastAPI  
+- 🧱 **TypeScript-driven React architecture** for large applications  
+- 🐳 **Containerized deployments** with Docker Compose and CI/CD pipelines  
 
 ---
 
 ### 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-narine-9ab567245/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anthonynarine)
+
+<p align="center">
+  <a href="mailto:anarine83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anthony-narine-9ab567245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anthonynarine">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> “Code is a craft — and I’m still sharpening the tools.”
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anthonynarine&style=flat-square&color=blue" alt="Profile views"/>
+</p>
