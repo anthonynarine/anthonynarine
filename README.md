@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#61DAFB">Anthony Narine</span></h1>
 <h3 align="center">Full-Stack Developer | React • Django • FastAPI</h3>
 
-<p align="center">
-  <i>“Code is a craft — and I’m still sharpening the tools.”</i>
-</p>
-
 ---
 
 ### 🧠 About Me
