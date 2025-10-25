@@ -32,7 +32,4 @@ Outside of code:
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthonynarine&style=flat-square&color=0A66C2" alt="Profile views"/>
-</p>
 
