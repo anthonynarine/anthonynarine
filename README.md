@@ -1,15 +1,6 @@
 <p align="center">
-  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="60%">
+  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="50%">
 </p>
-
-<h1 align="center">👋 Hi, I'm <span style="color:#61DAFB">Anthony Narine</span></h1>
-<h3 align="center">Full-Stack Developer · React · Django · FastAPI</h3>
-
-<p align="center">
-  <i>Building elegant systems — one API at a time.</i>
-</p>
-
----
 
 ### 🧠 About Me
 I’m a full-stack developer passionate about designing systems that flow — from database schema to UI.  
