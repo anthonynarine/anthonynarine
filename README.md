@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="80%">
+  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="60%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#61DAFB">Anthony Narine</span></h1>
