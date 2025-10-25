@@ -26,7 +26,6 @@ Outside of code:
 - 🐳 **Containerized environments** using Docker Compose + CI/CD  
 
 ---
-
 <p align="center">
   <a href="https://linkedin.com/in/anthony-narine-9ab567245/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
