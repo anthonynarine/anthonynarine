@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="100%">
+  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="80%">
 </p>
-
 
 <h1 align="center">👋 Hi, I'm <span style="color:#61DAFB">Anthony Narine</span></h1>
 <h3 align="center">Full-Stack Developer · React · Django · FastAPI</h3>
@@ -13,11 +12,11 @@
 ---
 
 ### 🧠 About Me
-I'm a full-stack developer focused on creating clean, scalable apps with **React** frontends and **Django/FastAPI** backends.  
-I love designing systems where backend logic and frontend flow feel naturally connected.  
+I’m a full-stack developer passionate about designing systems that flow — from database schema to UI.  
+My work bridges **React** front-ends with **Django/FastAPI** back-ends to create clean, scalable, and maintainable applications.  
 
-When I'm not coding, you’ll find me:  
-👧 with my daughter | 🎮 in *League of Legends* | 🏀 watching hoops | 📈 studying markets  
+Outside of code:  
+👧 Dad life | 🎮 *League of Legends* | 🏀 Basketball fan | 📈 Market watcher  
 
 📬 **anarine83@gmail.com** · [LinkedIn](https://www.linkedin.com/in/anthony-narine-9ab567245/)
 
@@ -25,16 +24,16 @@ When I'm not coding, you’ll find me:
 
 ### ⚙️ Tech Snapshot
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,js,postgres,mysql,redis,docker,nginx,git,githubactions,linux,vscode,tailwind&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,js,postgres,mysql,redis,docker,nginx,git,githubactions,linux,vscode,tailwind&perline=9"/>
 </p>
 
 ---
 
-### 🚀 Current Focus
-- 🧩 Building **Lumen** — an AI-powered vascular reporting platform  
-- ⚙️ Exploring **microservices, observability, and CI/CD automation**  
-- 🧠 Integrating **LangChain** for clinical RAG agents  
-- 🐳 Container orchestration with **Docker Compose**  
+### 🚀 What I'm Building
+- 🧩 **Lumen** — AI-powered vascular reporting platform  
+- ⚙️ **Microservices** with observability + structured logging  
+- 🧠 **LangChain RAG agents** for clinical and developer tasks  
+- 🐳 **Containerized environments** using Docker Compose + CI/CD  
 
 ---
 
@@ -51,5 +50,6 @@ When I'm not coding, you’ll find me:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anthonynarine&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=anthonynarine&style=flat-square&color=0A66C2" alt="Profile views"/>
 </p>
+
