@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/banner.png" alt="Anthony Narine Banner" width="100%">
+  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="100%">
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#61DAFB">Anthony Narine</span></h1>
 <h3 align="center">Full-Stack Developer · React · Django · FastAPI</h3>
