@@ -29,11 +29,28 @@ Outside of code:
 ---
 
 ### ⚙️ Tech Snapshot
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,js,postgres,mysql,redis,docker,git,githubactions,vscode,tailwind&perline=9"/>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
 </p>
-
-
 
 ---
 
@@ -48,3 +65,4 @@ Outside of code:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthonynarine&style=flat-square&color=00E6FF" alt="Profile views"/>
 </p>
+
