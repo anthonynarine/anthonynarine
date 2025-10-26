@@ -44,9 +44,6 @@ Outside of code:
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" alt="Material UI"/></td>
   </tr>
 </table>
-
-<h4 align="left" style="color:#00E6FF;">🧱 Databases & Infrastructure</h4>
-
 <table align="center" width="100%">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"/></td>
@@ -59,15 +56,10 @@ Outside of code:
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions"/></td>
   </tr>
 </table>
-
-<h4 align="left" style="color:#00E6FF;">🧠 AI / Agent Frameworks</h4>
-
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-00E6FF?style=flat-square&logo=python&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-8BE9FD?style=flat-square&logo=graph&logoColor=white" alt="LangGraph"/>
 </p>
-
-
 
 ---
 
