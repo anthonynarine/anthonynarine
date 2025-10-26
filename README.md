@@ -30,53 +30,58 @@ Outside of code:
 
 ### ⚙️ Tech Snapshot
 
-<!-- 🌐 Core Languages & Frameworks -->
+<h4 align="center" style="color:#00E6FF;">💻 Core Languages & Frameworks</h4>
+
 <table align="center" width="100%">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50" alt="Django"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="FastAPI"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="TailwindCSS"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="50" alt="Material UI"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="40" alt="Django"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="FastAPI"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="TailwindCSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" alt="Material UI"/></td>
   </tr>
 </table>
 
-<!-- 🧱 Databases & Infra -->
+<h4 align="center" style="color:#00E6FF;">🧱 Databases & Infrastructure</h4>
+
 <table align="center" width="100%">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50" alt="Redis"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=heroku" width="50" alt="Heroku"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50" alt="GitHub Actions"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="40" alt="Netlify"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=heroku" width="40" alt="Heroku"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions"/></td>
   </tr>
 </table>
 
-<!-- 🧩 Tools & APIs -->
+<h4 align="center" style="color:#00E6FF;">🧩 Tools & APIs</h4>
+
 <table align="center" width="100%">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VSCode"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=api" width="50" alt="API (Axios/DRF)"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=regex" width="50" alt="Regex"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VSCode"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=api" width="40" alt="API (Axios/DRF)"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"/></td>
   </tr>
 </table>
 
-<!-- 🧠 AI / Agent Frameworks -->
+<h4 align="center" style="color:#00E6FF;">🧠 AI / Agent Frameworks</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-00E6FF?style=flat-square&logo=python&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-8BE9FD?style=flat-square&logo=graph&logoColor=white" alt="LangGraph"/>
 </p>
+
 
 ---
 
