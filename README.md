@@ -44,13 +44,9 @@ Outside of code:
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="45"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="45" alt="Material UI"/></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-</p>
 
 ---
 
