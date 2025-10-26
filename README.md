@@ -29,13 +29,11 @@ Outside of code:
 ---
 
 ### ⚙️ Tech Snapshot
-<p align="center">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,js,postgres,mysql,redis,docker,git,githubactions,vscode,tailwind&perline=9"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-</p>
+
 
 ---
 
