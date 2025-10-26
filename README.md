@@ -14,13 +14,27 @@ My work bridges **React** front-ends with **Django/FastAPI** back-ends to create
 Outside of code:  
 👧 Dad life | 🎮 *League of Legends* | 🏀 Basketball fan | 📈 Market watcher  
 
-📬 **anarine83@gmail.com** · [LinkedIn](https://www.linkedin.com/in/anthony-narine-9ab567245/)
+<p align="center">
+  <a href="mailto:anarine83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00E6FF?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/anthony-narine-9ab567245/">
+    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/anthonynarine">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=00E6FF" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ### ⚙️ Tech Snapshot
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,js,postgres,mysql,redis,docker,nginx,git,githubactions,linux,vscode,tailwind&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,js,postgres,mysql,redis,docker,git,githubactions,vscode,tailwind&perline=9"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
 </p>
 
 ---
@@ -34,7 +48,5 @@ Outside of code:
 ---
 
 <p align="center">
-  <a href="mailto:anarine83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=anthonynarine&style=flat-square&color=00E6FF" alt="Profile views"/>
 </p>
