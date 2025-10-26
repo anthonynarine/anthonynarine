@@ -29,37 +29,50 @@ Outside of code:
 ---
 
 ### ⚙️ Tech Snapshot
-<table align="center">
+
+<!-- 🌐 Core Languages & Frameworks -->
+<table align="center" width="100%">
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="45" alt="Django"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="45" alt="FastAPI"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45" alt="PostgreSQL"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="45" alt="Redis"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45" alt="Docker"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="45" alt="Material UI"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="45" alt="Netlify"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=heroku" width="45" alt="Heroku"/></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=api" width="45" alt="API (Axios/DRF)"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50" alt="Django"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="FastAPI"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="TailwindCSS"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="50" alt="Material UI"/></td>
   </tr>
 </table>
 
+<!-- 🧱 Databases & Infra -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="50" alt="Redis"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=heroku" width="50" alt="Heroku"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="50" alt="GitHub Actions"/></td>
+  </tr>
+</table>
+
+<!-- 🧩 Tools & APIs -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50" alt="Postman"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VSCode"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=api" width="50" alt="API (Axios/DRF)"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=regex" width="50" alt="Regex"/></td>
+  </tr>
+</table>
+
+<!-- 🧠 AI / Agent Frameworks -->
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-00E6FF?style=flat-square&logo=python&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-8BE9FD?style=flat-square&logo=graph&logoColor=white" alt="LangGraph"/>
