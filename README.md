@@ -28,7 +28,7 @@ Outside of code:
 
 ---
 
-<h5 align="center" style="color:#00E6FF;"> Languages - Frameworks - Databases - Infrastructure </h4> 
+<h4 align="center" style="color:#00E6FF;"> Languages - Frameworks - Databases - Infrastructure </h4> 
 
 <table align="center" width="100%">
   <tr>
