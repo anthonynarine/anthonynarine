@@ -1,9 +1,13 @@
+<h1 align="center" style="color:#00E6FF;">Hi, I'm Anthony Narine</h1>
+<h3 align="center" style="color:#8BE9FD;">Full-Stack Developer · React · Django · FastAPI</h3>
+
 <p align="center">
-  <img src="https://github.com/anthonynarine/anthonynarine/blob/main/githubbanner.png" alt="Anthony Narine GitHub Banner" width="50%">
+  <i style="color:#A0A0A0;">Building elegant systems — one API at a time.</i>
 </p>
 
+---
 
-
+### 🧠 About Me
 I’m a full-stack developer passionate about designing systems that flow — from database schema to UI.  
 My work bridges **React** front-ends with **Django/FastAPI** back-ends to create clean, scalable, and maintainable applications.  
 
@@ -28,9 +32,9 @@ Outside of code:
 - 🐳 **Containerized environments** using Docker Compose + CI/CD  
 
 ---
+
 <p align="center">
-  <a href="https://linkedin.com/in/anthony-narine-9ab567245/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="mailto:anarine83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-
-
+</p>
