@@ -1,10 +1,6 @@
 <h1 align="center" style="color:#00E6FF;">Hi, I'm Anthony Narine</h1>
 <h3 align="center" style="color:#8BE9FD;">Full-Stack Developer · React · Django · FastAPI</h3>
 
-<p align="center">
-  <i style="color:#A0A0A0;">Building elegant systems — one API at a time.</i>
-</p>
-
 ---
 
 ### 🧠 About Me
