@@ -51,18 +51,19 @@ Outside of code:
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45" alt="Postman"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="45" alt="Netlify"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=heroku" width="45" alt="Heroku"/></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/axios-1.svg" width="45" alt="Axios"/></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" width="45" alt="DRF"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="45" alt="LangChain"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langgraph.svg" width="45" alt="LangGraph"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VSCode"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="45" alt="GitHub Actions"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="TailwindCSS"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=api" width="45" alt="API (Axios/DRF)"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code"/>
+    </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-00E6FF?style=flat-square&logo=python&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-8BE9FD?style=flat-square&logo=graph&logoColor=white" alt="LangGraph"/>
+</p>
 
 ---
 
