@@ -30,7 +30,7 @@ Outside of code:
 
 ### ⚙️ Tech Snapshot
 
-<h4 align="center" style="color:#00E6FF;">💻 Core Languages & Frameworks</h4>
+<h4 align="left" style="color:#00E6FF;">💻 Core Languages & Frameworks</h4>
 
 <table align="center" width="100%">
   <tr>
@@ -45,7 +45,7 @@ Outside of code:
   </tr>
 </table>
 
-<h4 align="center" style="color:#00E6FF;">🧱 Databases & Infrastructure</h4>
+<h4 align="left" style="color:#00E6FF;">🧱 Databases & Infrastructure</h4>
 
 <table align="center" width="100%">
   <tr>
@@ -60,27 +60,13 @@ Outside of code:
   </tr>
 </table>
 
-<h4 align="center" style="color:#00E6FF;">🧩 Tools & APIs</h4>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VSCode"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=api" width="40" alt="API (Axios/DRF)"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"/></td>
-  </tr>
-</table>
-
-<h4 align="center" style="color:#00E6FF;">🧠 AI / Agent Frameworks</h4>
+<h4 align="left" style="color:#00E6FF;">🧠 AI / Agent Frameworks</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-00E6FF?style=flat-square&logo=python&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-8BE9FD?style=flat-square&logo=graph&logoColor=white" alt="LangGraph"/>
 </p>
+
 
 
 ---
