@@ -29,7 +29,7 @@ Outside of code:
 ---
 
 ### ⚙️ Tech Snapshot
-<p align="right">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,ts,js,postgres,mysql,redis,docker,git,githubactions,vscode,tailwind&perline=9"/>
 </p>
 
