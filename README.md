@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 I’m a full-stack developer passionate about designing systems that flow — from database schema to UI.  
 My work bridges **React** front-ends with **Django/FastAPI** back-ends to create clean, scalable, and maintainable applications.  
 
